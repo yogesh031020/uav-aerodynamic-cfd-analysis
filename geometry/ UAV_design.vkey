@@ -1,0 +1,23 @@
+# VSPGEOM v3 Tag Key File
+D:/DroneProjects/uav-cfd-analysis/geometry/ UAV_design.vspgeom
+7
+
+# part#,geom#,surf#,gname,gid,thick,plate,copy#,geomcopy#
+1,1,0,Fuselage_V,QVUWLZQEVX,0,1,1,2
+2,1,0,Fuselage_H,QVUWLZQEVX,0,2,1,2
+3,0,0,Main_Wing_C,WLRGPUJFXV,0,3,1,1
+4,0,1,Main_Wing_C,WLRGPUJFXV,0,3,2,1
+5,3,0,H_Tail_C,BEQZSQSODL,0,3,1,4
+6,3,1,H_Tail_C,BEQZSQSODL,0,3,2,4
+7,2,0,V_Tail_C,OSSMDBLIEW,0,3,1,3
+
+7
+
+# tag#,part#,ssname1,ssname2,...,ssid1,ssid2,...
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
