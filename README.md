@@ -1,3 +1,12 @@
+# ✈️ UAV Aerodynamic CFD Analysis
+
+![Status](https://img.shields.io/badge/Status-Completed-blue)
+![Field](https://img.shields.io/badge/Field-Aerodynamics%20%26%20Design-orange)
+![Tool](https://img.shields.io/badge/Tool-OpenVSP%20%7C%20VSPAERO-green)
+![Analysis](https://img.shields.io/badge/Analysis-Lift%20%7C%20Drag%20%7C%20Stability-red)
+
+**Comprehensive aerodynamic design and CFD analysis of a Fixed-Wing UAV, featuring lift/drag coefficient calculations and pressure distribution mapping using OpenVSP.**
+
 \# ✈️ UAV Aerodynamic Design \& CFD Analysis
 
 
